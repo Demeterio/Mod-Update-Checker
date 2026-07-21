@@ -1,4 +1,4 @@
-# Mod Update Checker for The Sims 4
+# Demeterio: Mod Update Checker
 
 Mod Update Checker, or **MUC**, is a transparent update-notification framework for script and tuning mods made for **The Sims 4**.
 
