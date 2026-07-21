@@ -163,7 +163,7 @@ The public release will contain the following files, where X is the release vers
 
 ```text
 Demeterio_ModUpdateChecker_vX.ts4script
-Demeterio_ModUpdateChecker_vX.package
+Demeterio_ModUpdateChecker_Generic_vX.package
 ```
 
 Place both files in:
