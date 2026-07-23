@@ -22,7 +22,7 @@ MUC does **not** download, install, import, replace, or execute mod files.
 | Registry contribution guide | [CONTRIBUTING.md](https://github.com/Demeterio/Mod-Update-Checker_registry/blob/main/CONTRIBUTING.md) |
 | Registry Pull Requests | [Proposed registry changes](https://github.com/Demeterio/Mod-Update-Checker_registry/pulls) |
 | Live signed registry | [registry-v1.json](http://muc-registry.demeterio.cc/generated/registry-v1.json) |
-| Live registry catalogue | [catalogue](http://muc-registry.demeterio.cc/registry/) |
+| Live registry catalogue | [Catalogue](http://muc-registry.demeterio.cc/registry/) |
 
 > Download the mod only from an official link listed above.  
 > GitHub's automatically generated **Source code** archives are not ready-to-install Sims 4 mod archives.
