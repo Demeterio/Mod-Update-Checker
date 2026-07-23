@@ -75,7 +75,7 @@ Every official release provides two ZIP archives. `vX` represents the release ve
 
 ```text
 Demeterio_ModUpdateChecker_PLAYER_vX.zip
-├─ Demeterio_ModUpdateChecker_vX.ts4script
+├─ Demeterio_ModUpdateChecker_Script_vX.ts4script
 ├─ Demeterio_ModUpdateChecker_Generic_vX.package
 ├─ Demeterio_ModUpdateChecker_Installation_vX.txt
 └─ Demeterio_ModUpdateChecker_Compatibility_vX.txt
@@ -87,7 +87,7 @@ Use the **PLAYER** archive for a normal game installation.
 
 ```text
 Demeterio_ModUpdateChecker_MODDER_vX.zip
-├─ Demeterio_ModUpdateChecker_vX.ts4script
+├─ Demeterio_ModUpdateChecker_Script_vX.ts4script
 ├─ Demeterio_ModUpdateChecker_Generic_vX.package
 ├─ Demeterio_ModUpdateChecker_Installation_vX.txt
 ├─ Demeterio_ModUpdateChecker_Compatibility_vX.txt
