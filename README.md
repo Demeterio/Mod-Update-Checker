@@ -94,7 +94,7 @@ Demeterio_ModUpdateChecker_MODDER_vX.zip
 ├─ Documentation/
 │  └─ Demeterio_ModUpdateChecker_Modder_Guide_vX.pdf
 └─ Templates/
-   └─ Demeterio_ModUpdateChecker_Declaration_Template_vX.package
+   └─ ModderName_ModName_ModUpdateChecker_vX.package
 ```
 
 Use the **MODDER** archive when creating an integration package for another mod.
