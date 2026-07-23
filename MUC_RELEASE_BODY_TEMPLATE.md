@@ -3,9 +3,8 @@
 > [!IMPORTANT]
 > Download only one of the two official MUC ZIP archives attached to this Release.
 >
-> Do **not** download GitHub's automatic **Source code (zip)** or
-> **Source code (tar.gz)** archives. They are repository snapshots and are not
-> ready-to-install versions of the mod.
+> Do **not** download GitHub's automatic **Source code (zip)** or **Source code (tar.gz)** archives.
+> They are repository snapshots and are not ready-to-install versions of the mod.
 
 ## Changelog
 
@@ -31,8 +30,7 @@ Delete any unused changelog section before publishing the Release.
 
 ## Which ZIP should I download?
 
-All versioned filenames end with `vX`, where `X` represents the version included
-in this Release.
+All versioned filenames end with `vX`, where `X` represents the version included in this Release.
 
 ### Players
 
@@ -40,8 +38,7 @@ Download:
 
 `Demeterio_ModUpdateChecker_PLAYER_vX.zip`
 
-Use this archive when you only want to install and use Mod Update Checker in
-The Sims 4.
+Use this archive when you only want to install and use Mod Update Checker in The Sims 4.
 
 ```text
 Demeterio_ModUpdateChecker_PLAYER_vX.zip
@@ -51,8 +48,7 @@ Demeterio_ModUpdateChecker_PLAYER_vX.zip
 └─ Demeterio_ModUpdateChecker_Compatibility_vX.txt
 ```
 
-The installation method and current compatibility information are included
-inside the ZIP.
+The installation method and current compatibility information are included inside the ZIP.
 
 ### Mod creators
 
@@ -60,8 +56,7 @@ Download:
 
 `Demeterio_ModUpdateChecker_MODDER_vX.zip`
 
-Use this archive when you want to add MUC support to your own mod or test a MUC
-declaration package.
+Use this archive when you want to add MUC support to your own mod or test a MUC declaration package.
 
 ```text
 Demeterio_ModUpdateChecker_MODDER_vX.zip
@@ -75,11 +70,9 @@ Demeterio_ModUpdateChecker_MODDER_vX.zip
    └─ ModderName_ModName_ModUpdateChecker_vX.package
 ```
 
-The MODDER ZIP contains the same runtime files as the PLAYER ZIP, plus the
-complete modder guide and the declaration package template.
+The MODDER ZIP contains the same runtime files as the PLAYER ZIP, plus the complete modder guide and the declaration package template.
 
-Do not install or distribute the unchanged template. Copy it into your own
-project, rename it, replace every placeholder, and follow the Modder Guide.
+Do not install or distribute the unchanged template. Copy it into your own project, rename it, replace every placeholder, and follow the Modder Guide.
 
 ---
 
@@ -105,18 +98,15 @@ The direct URL follows this format:
 https://github.com/Demeterio/Mod-Update-Checker/tree/<RELEASE_TAG>/src
 ```
 
-Replace `<RELEASE_TAG>` with the exact tag shown at the top of this Release,
-for example `v1.0.1`.
+Replace `<RELEASE_TAG>` with the exact tag shown at the top of this Release, for example `v1.0.1`.
 
 ---
 
 ## Problems and bug reports
 
-For installation problems, compatibility reports, unexpected behavior, or
-confirmed bugs, use either:
+For installation problems, compatibility reports, unexpected behavior, or confirmed bugs, use either:
 
 - **GitHub Issues:** https://github.com/Demeterio/Mod-Update-Checker/issues
 - the official **Mod The Sims page** linked above.
 
-When reporting a problem, include the MUC version, The Sims 4 version, technical
-log, update report, and reproduction steps when available.
+When reporting a problem, include the MUC version, The Sims 4 version, technical log, update report, and reproduction steps when available.
