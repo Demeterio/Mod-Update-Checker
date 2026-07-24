@@ -1,0 +1,70 @@
+name: Compatibility report
+description: Report a conflict or warning involving another mod or security tool.
+title: "[Compatibility] "
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for compatibility problems involving another mod, firewall, antivirus, privacy tool, or security tool.
+
+  - type: input
+    id: muc-version
+    attributes:
+      label: MUC version
+      placeholder: "Example: 1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: game-version
+    attributes:
+      label: The Sims 4 version
+      placeholder: "Example: 1.xx.xxx.xxxx"
+    validations:
+      required: true
+
+  - type: input
+    id: other-tool
+    attributes:
+      label: Other mod or tool
+      placeholder: "Name and version"
+    validations:
+      required: true
+
+  - type: textarea
+    id: warning
+    attributes:
+      label: Exact warning or problem
+      description: Copy the exact message when possible.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Attach the relevant MUC log and any warning or screenshot.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Final checks
+      options:
+        - label: I did not disable the other security tool globally.
+          required: true
+        - label: I tested with official MUC files from a public release.
+          required: true
+        - label: This report does not contain private or sensitive information.
+          required: true
