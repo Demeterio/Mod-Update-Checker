@@ -27,6 +27,34 @@ MUC does **not** download, install, import, replace, or execute mod files.
 > Download the mod only from an official link listed above.  
 > GitHub's automatically generated **Source code** archives are not ready-to-install Sims 4 mod archives.
 
+## Screenshots
+
+<p align="center">
+  <img
+    src="assets/screenshots/muc-demeterio-screenshot-notification-updates.png"
+    alt="MUC update notification"
+    width="48%"
+  >
+  <img
+    src="assets/screenshots/muc-demeterio-screenshot-log.png"
+    alt="MUC update report"
+    width="48%"
+  >
+</p>
+
+<p align="center">
+  <img
+    src="assets/screenshots/muc-demeterio-screenshot-registry.png"
+    alt="MUC public Registry Catalogue"
+    width="48%"
+  >
+  <img
+    src="assets/screenshots/muc-demeterio-screenshot-modder-guide.png"
+    alt="MUC modder guide"
+    width="48%"
+  >
+</p>
+
 ## What MUC does
 
 MUC is designed to:
