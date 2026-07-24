@@ -1,4 +1,4 @@
-<a href="#"><img alt="Mod Update Checker header" src="https://repository-images.githubusercontent.com/1307189970/15c03ce7-4598-423f-a9df-5417dd4c7981" width="75%"></a>
+<img alt="Mod Update Checker header" src="assets/social/header_mod_update_checker.png" width="75%">
 
 
 # Demeterio's Mod Update Checker
