@@ -1,4 +1,4 @@
-<img alt="Mod Update Checker header" src="assets/social/header_mod_update_checker.png" width="75%">
+<img alt="Mod Update Checker header" src="assets/social/mod_update_checker_header.png" width="75%">
 
 
 # Demeterio's Mod Update Checker
@@ -46,12 +46,7 @@ MUC does **not** download, install, import, replace, or execute mod files.
   <img
     src="assets/screenshots/muc-demeterio-screenshot-registry.png"
     alt="MUC public Registry Catalogue"
-    width="48%"
-  >
-  <img
-    src="assets/screenshots/muc-demeterio-screenshot-modder-guide.png"
-    alt="MUC modder guide"
-    width="48%"
+    width="100%"
   >
 </p>
 
